@@ -1,0 +1,2952 @@
+{
+  "metadata": {
+    "poi_type": "toilets",
+    "grid_size": 0.005,
+    "feature_count": 243,
+    "grid_cells": 134,
+    "source_file": "amenity_toilets_points.geojson"
+  },
+  "grid_index": {
+    "3810,14564": [
+      {
+        "id": "348129744",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8246707,
+          19.0519827
+        ]
+      }
+    ],
+    "3791,14560": [
+      {
+        "id": "459626234",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8003383,
+          18.9585796
+        ]
+      },
+      {
+        "id": "469125308",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8025957,
+          18.9579302
+        ]
+      },
+      {
+        "id": "3306535089",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8045932,
+          18.9557504
+        ]
+      }
+    ],
+    "3792,14562": [
+      {
+        "id": "477616673",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8129144,
+          18.96143
+        ]
+      },
+      {
+        "id": "619218674",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8131528,
+          18.9642231
+        ]
+      },
+      {
+        "id": "5062717222",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8133731,
+          18.9623159
+        ]
+      }
+    ],
+    "3793,14564": [
+      {
+        "id": "619263306",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8227227,
+          18.965363
+        ]
+      }
+    ],
+    "3792,14565": [
+      {
+        "id": "619302834",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8262418,
+          18.9618929
+        ]
+      },
+      {
+        "id": "619306065",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8280227,
+          18.9631612
+        ]
+      },
+      {
+        "id": "619357320",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8273658,
+          18.9611803
+        ]
+      }
+    ],
+    "3793,14565": [
+      {
+        "id": "619313252",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8287094,
+          18.9653123
+        ]
+      }
+    ],
+    "3792,14564": [
+      {
+        "id": "619325927",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8249221,
+          18.9644701
+        ]
+      },
+      {
+        "id": "9034182896",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8215315,
+          18.9617347
+        ]
+      }
+    ],
+    "3790,14566": [
+      {
+        "id": "858509797",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.831428,
+          18.9529397
+        ]
+      },
+      {
+        "id": "1033641246",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8345993,
+          18.9525497
+        ]
+      }
+    ],
+    "3791,14566": [
+      {
+        "id": "858582359",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8344964,
+          18.9568564
+        ]
+      }
+    ],
+    "3790,14567": [
+      {
+        "id": "858714691",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.838627,
+          18.9533405
+        ]
+      },
+      {
+        "id": "1033722178",
+        "type": "Point",
+        "name": "Toilet gents",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8365589,
+          18.9513821
+        ]
+      },
+      {
+        "id": "1033801731",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8378233,
+          18.9503579
+        ]
+      },
+      {
+        "id": "1033816128",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.837808,
+          18.9524398
+        ]
+      }
+    ],
+    "3790,14568": [
+      {
+        "id": "858714694",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8405529,
+          18.954203
+        ]
+      }
+    ],
+    "3785,14566": [
+      {
+        "id": "858938536",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8317649,
+          18.9261251
+        ]
+      },
+      {
+        "id": "4690189689",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8336738,
+          18.9263954
+        ]
+      },
+      {
+        "id": "12299107695",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8331811,
+          18.926023
+        ]
+      }
+    ],
+    "3789,14567": [
+      {
+        "id": "1033584510",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8362855,
+          18.9497492
+        ]
+      },
+      {
+        "id": "1034933331",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8385962,
+          18.9490597
+        ]
+      }
+    ],
+    "3847,14560": [
+      {
+        "id": "1070180329",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8034607,
+          19.2357242
+        ]
+      }
+    ],
+    "3846,14560": [
+      {
+        "id": "1070186380",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8049062,
+          19.2328758
+        ]
+      }
+    ],
+    "3812,14579": [
+      {
+        "id": "1398699938",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8994545,
+          19.0616398
+        ]
+      },
+      {
+        "id": "2238542022",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8987564,
+          19.0644819
+        ]
+      }
+    ],
+    "3825,14566": [
+      {
+        "id": "1905387574",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8309015,
+          19.1264863
+        ]
+      }
+    ],
+    "3793,14586": [
+      {
+        "id": "2127366897",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9300515,
+          18.9668082
+        ]
+      }
+    ],
+    "3811,14579": [
+      {
+        "id": "2238542662",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8956761,
+          19.0576923
+        ]
+      }
+    ],
+    "3826,14579": [
+      {
+        "id": "2319177853",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8972911,
+          19.1310324
+        ]
+      }
+    ],
+    "3814,14580": [
+      {
+        "id": "2319432353",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9013532,
+          19.0711821
+        ]
+      }
+    ],
+    "3808,14585": [
+      {
+        "id": "2568650312",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9285249,
+          19.0420069
+        ]
+      },
+      {
+        "id": "2568650316",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9273617,
+          19.0424736
+        ]
+      }
+    ],
+    "3792,14586": [
+      {
+        "id": "2841826816",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.931554,
+          18.9617514
+        ]
+      }
+    ],
+    "3812,14569": [
+      {
+        "id": "2947798356",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8451834,
+          19.0623664
+        ]
+      }
+    ],
+    "3812,14581": [
+      {
+        "id": "3204219599",
+        "type": "Point",
+        "name": "alex toilet",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9074736,
+          19.0602325
+        ]
+      }
+    ],
+    "3807,14590": [
+      {
+        "id": "3204452467",
+        "type": "Point",
+        "name": "shulab swachalaya",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9506617,
+          19.0353264
+        ]
+      }
+    ],
+    "3812,14568": [
+      {
+        "id": "3207680966",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8439445,
+          19.061542
+        ]
+      }
+    ],
+    "3811,14584": [
+      {
+        "id": "3215563889",
+        "type": "Point",
+        "name": "public toilet",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9244829,
+          19.0596074
+        ]
+      }
+    ],
+    "3813,14584": [
+      {
+        "id": "3226211963",
+        "type": "Point",
+        "name": "private  toilet",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9217934,
+          19.0690356
+        ]
+      }
+    ],
+    "3814,14584": [
+      {
+        "id": "3226215930",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9216115,
+          19.0700214
+        ]
+      }
+    ],
+    "3788,14567": [
+      {
+        "id": "3276626961",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.838449,
+          18.9410755
+        ]
+      },
+      {
+        "id": "12293008897",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8355701,
+          18.9403723
+        ]
+      },
+      {
+        "id": "12293008899",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8356619,
+          18.9403809
+        ]
+      }
+    ],
+    "3796,14564": [
+      {
+        "id": "3278351288",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8249972,
+          18.9820773
+        ]
+      }
+    ],
+    "3788,14566": [
+      {
+        "id": "3278351837",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8306803,
+          18.9449701
+        ]
+      }
+    ],
+    "3786,14566": [
+      {
+        "id": "3278351839",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8347361,
+          18.9323109
+        ]
+      },
+      {
+        "id": "4328014989",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.830338,
+          18.9349586
+        ]
+      }
+    ],
+    "3815,14575": [
+      {
+        "id": "3289553041",
+        "type": "Point",
+        "name": "AC Toilet",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8773186,
+          19.0761876
+        ]
+      },
+      {
+        "id": "3289557362",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8793873,
+          19.0766928
+        ]
+      }
+    ],
+    "3819,14574": [
+      {
+        "id": "3816244650",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8734151,
+          19.099185
+        ]
+      },
+      {
+        "id": "3816244889",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8740857,
+          19.0984905
+        ]
+      },
+      {
+        "id": "3816268387",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8748491,
+          19.0993953
+        ]
+      },
+      {
+        "id": "3816268392",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8740589,
+          19.0964527
+        ]
+      },
+      {
+        "id": "3816268393",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8724168,
+          19.0950611
+        ]
+      }
+    ],
+    "3819,14575": [
+      {
+        "id": "3816244651",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8756789,
+          19.0991647
+        ]
+      },
+      {
+        "id": "3816244885",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.875062,
+          19.0984601
+        ]
+      }
+    ],
+    "3818,14574": [
+      {
+        "id": "3816268394",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8721186,
+          19.0944883
+        ]
+      },
+      {
+        "id": "3816268395",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8714687,
+          19.0943297
+        ]
+      }
+    ],
+    "3845,14561": [
+      {
+        "id": "4233762762",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8050166,
+          19.2281987
+        ]
+      }
+    ],
+    "3834,14591": [
+      {
+        "id": "4246251912",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9563282,
+          19.1747998
+        ]
+      },
+      {
+        "id": "4294254222",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9557829,
+          19.1719235
+        ]
+      },
+      {
+        "id": "4294263538",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9593478,
+          19.1722847
+        ]
+      },
+      {
+        "id": "4784894322",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.959276,
+          19.1748812
+        ]
+      },
+      {
+        "id": "11563437816",
+        "type": "Point",
+        "name": "Wooloo Powder Room",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9568954,
+          19.1729002
+        ]
+      }
+    ],
+    "3803,14563": [
+      {
+        "id": "4258768094",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8168296,
+          19.0151322
+        ]
+      }
+    ],
+    "3834,14590": [
+      {
+        "id": "4294265880",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9537431,
+          19.1747444
+        ]
+      },
+      {
+        "id": "5590242322",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9522172,
+          19.1708774
+        ]
+      }
+    ],
+    "3837,14589": [
+      {
+        "id": "4308851595",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9457992,
+          19.1874609
+        ]
+      },
+      {
+        "id": "4308851596",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.946253,
+          19.186588
+        ]
+      },
+      {
+        "id": "4308851597",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9463298,
+          19.1867762
+        ]
+      }
+    ],
+    "3834,14592": [
+      {
+        "id": "4321005547",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9621878,
+          19.1731817
+        ]
+      }
+    ],
+    "3819,14577": [
+      {
+        "id": "4326460090",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8879348,
+          19.0975731
+        ]
+      }
+    ],
+    "3786,14564": [
+      {
+        "id": "4327969292",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8221005,
+          18.9302836
+        ]
+      }
+    ],
+    "3811,14574": [
+      {
+        "id": "4400730193",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8725423,
+          19.0599814
+        ]
+      }
+    ],
+    "3817,14580": [
+      {
+        "id": "4400750193",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9000753,
+          19.0888428
+        ]
+      },
+      {
+        "id": "5471970026",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9030452,
+          19.0874324
+        ]
+      }
+    ],
+    "3818,14580": [
+      {
+        "id": "4400782389",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.900178,
+          19.0905138
+        ]
+      }
+    ],
+    "3840,14590": [
+      {
+        "id": "4585345193",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.954444,
+          19.2039592
+        ]
+      },
+      {
+        "id": "4585359395",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9539218,
+          19.2032951
+        ]
+      },
+      {
+        "id": "4585364194",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9542105,
+          19.2042231
+        ]
+      }
+    ],
+    "3836,14590": [
+      {
+        "id": "4585363490",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9527832,
+          19.1836322
+        ]
+      }
+    ],
+    "3836,14591": [
+      {
+        "id": "4585364195",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9552155,
+          19.1831246
+        ]
+      }
+    ],
+    "3840,14591": [
+      {
+        "id": "4585386791",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9573694,
+          19.2022524
+        ]
+      },
+      {
+        "id": "4776531723",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9599828,
+          19.2013154
+        ]
+      }
+    ],
+    "3791,14561": [
+      {
+        "id": "4691693190",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8059824,
+          18.9562188
+        ]
+      }
+    ],
+    "3825,14584": [
+      {
+        "id": "4761368324",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9249219,
+          19.1252645
+        ]
+      }
+    ],
+    "3835,14589": [
+      {
+        "id": "4809609628",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9470179,
+          19.1759212
+        ]
+      },
+      {
+        "id": "10275731801",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9469616,
+          19.1794509
+        ]
+      }
+    ],
+    "3825,14578": [
+      {
+        "id": "4849606521",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8930981,
+          19.1250159
+        ]
+      },
+      {
+        "id": "10767848893",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8930071,
+          19.1250337
+        ]
+      }
+    ],
+    "3827,14582": [
+      {
+        "id": "5078179353",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9143963,
+          19.1377527
+        ]
+      },
+      {
+        "id": "5078179354",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9142964,
+          19.1376824
+        ]
+      },
+      {
+        "id": "5078179355",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9142139,
+          19.1378496
+        ]
+      },
+      {
+        "id": "5078179356",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9142213,
+          19.1377419
+        ]
+      },
+      {
+        "id": "5078179357",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.914401,
+          19.1378255
+        ]
+      },
+      {
+        "id": "5078179358",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9143205,
+          19.1379212
+        ]
+      },
+      {
+        "id": "5078179359",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9143044,
+          19.1378877
+        ]
+      }
+    ],
+    "3825,14583": [
+      {
+        "id": "5078179360",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9159379,
+          19.1289405
+        ]
+      },
+      {
+        "id": "5078179361",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9158661,
+          19.1293251
+        ]
+      },
+      {
+        "id": "5078179362",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9157314,
+          19.1293308
+        ]
+      },
+      {
+        "id": "5078179363",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.915657,
+          19.1289507
+        ]
+      },
+      {
+        "id": "5078179364",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9155758,
+          19.1284109
+        ]
+      },
+      {
+        "id": "5078179365",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9159889,
+          19.1284122
+        ]
+      },
+      {
+        "id": "5078179366",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9157532,
+          19.1293289
+        ]
+      },
+      {
+        "id": "5078179367",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9157528,
+          19.1291091
+        ]
+      }
+    ],
+    "3826,14583": [
+      {
+        "id": "5078179368",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9158306,
+          19.1315912
+        ]
+      },
+      {
+        "id": "5078179369",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9159728,
+          19.1308069
+        ]
+      },
+      {
+        "id": "5078179370",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9157642,
+          19.1304598
+        ]
+      },
+      {
+        "id": "5078179371",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.915901,
+          19.1307132
+        ]
+      },
+      {
+        "id": "5078179372",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9170496,
+          19.1305497
+        ]
+      },
+      {
+        "id": "5078179373",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9168793,
+          19.131875
+        ]
+      },
+      {
+        "id": "5078179374",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9176672,
+          19.131939
+        ]
+      },
+      {
+        "id": "5078179375",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.919068,
+          19.1328684
+        ]
+      },
+      {
+        "id": "5078179376",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9182969,
+          19.1324756
+        ]
+      },
+      {
+        "id": "5078179377",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9175941,
+          19.1320127
+        ]
+      },
+      {
+        "id": "5078179378",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9173487,
+          19.1320068
+        ]
+      },
+      {
+        "id": "5078179379",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9176445,
+          19.1315355
+        ]
+      },
+      {
+        "id": "5078179380",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9179603,
+          19.1311984
+        ]
+      },
+      {
+        "id": "5078179381",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9181159,
+          19.1306562
+        ]
+      },
+      {
+        "id": "5078179382",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9186201,
+          19.131206
+        ]
+      },
+      {
+        "id": "5078179383",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9179201,
+          19.1309609
+        ]
+      },
+      {
+        "id": "5078179384",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9172864,
+          19.1305206
+        ]
+      },
+      {
+        "id": "5078179385",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9183519,
+          19.1307182
+        ]
+      },
+      {
+        "id": "5078179386",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9183586,
+          19.1300138
+        ]
+      },
+      {
+        "id": "5078179387",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9175191,
+          19.1302304
+        ]
+      },
+      {
+        "id": "5078179388",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9165287,
+          19.1301684
+        ]
+      },
+      {
+        "id": "5078179389",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9163579,
+          19.1304985
+        ]
+      },
+      {
+        "id": "5078179390",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9163972,
+          19.1310977
+        ]
+      },
+      {
+        "id": "5078179391",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.91664,
+          19.1316945
+        ]
+      },
+      {
+        "id": "5078179392",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9172039,
+          19.1333296
+        ]
+      },
+      {
+        "id": "5078179393",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9172602,
+          19.1322754
+        ]
+      },
+      {
+        "id": "5078179394",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9168146,
+          19.1326263
+        ]
+      },
+      {
+        "id": "5078179395",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9168546,
+          19.1326255
+        ]
+      },
+      {
+        "id": "5078179396",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9153612,
+          19.1330103
+        ]
+      },
+      {
+        "id": "5078179397",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9154148,
+          19.1324591
+        ]
+      },
+      {
+        "id": "6212726037",
+        "type": "Point",
+        "name": "Washroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9163747,
+          19.1305001
+        ]
+      },
+      {
+        "id": "6212726038",
+        "type": "Point",
+        "name": "Washroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9163532,
+          19.1309174
+        ]
+      },
+      {
+        "id": "6212726039",
+        "type": "Point",
+        "name": "Ladies Restroom",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9163365,
+          19.1309158
+        ]
+      },
+      {
+        "id": "6805063789",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9174593,
+          19.132408
+        ]
+      },
+      {
+        "id": "6805067991",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9159837,
+          19.1342237
+        ]
+      }
+    ],
+    "3818,14582": [
+      {
+        "id": "5448316834",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9130431,
+          19.0914667
+        ]
+      }
+    ],
+    "3817,14568": [
+      {
+        "id": "5472015521",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8445071,
+          19.0874302
+        ]
+      }
+    ],
+    "3813,14572": [
+      {
+        "id": "5506320778",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8616504,
+          19.0650787
+        ]
+      }
+    ],
+    "3833,14586": [
+      {
+        "id": "5839245285",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9314478,
+          19.16735
+        ]
+      },
+      {
+        "id": "10775838855",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9322466,
+          19.1696216
+        ]
+      },
+      {
+        "id": "11955767428",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9307452,
+          19.1692132
+        ]
+      },
+      {
+        "id": "12863749645",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9303675,
+          19.167135
+        ]
+      }
+    ],
+    "3832,14585": [
+      {
+        "id": "5839250185",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9291437,
+          19.1646741
+        ]
+      }
+    ],
+    "3828,14586": [
+      {
+        "id": "5841673351",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9338415,
+          19.1435276
+        ]
+      }
+    ],
+    "3832,14586": [
+      {
+        "id": "5859107296",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9328495,
+          19.1633886
+        ]
+      }
+    ],
+    "3786,14565": [
+      {
+        "id": "6044054250",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8298857,
+          18.9324991
+        ]
+      }
+    ],
+    "3833,14587": [
+      {
+        "id": "6052581658",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9356723,
+          19.165814
+        ]
+      }
+    ],
+    "3826,14581": [
+      {
+        "id": "6212731250",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9062718,
+          19.134564
+        ]
+      },
+      {
+        "id": "6212731251",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9061432,
+          19.1346227
+        ]
+      },
+      {
+        "id": "6212731252",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9058997,
+          19.134731
+        ]
+      }
+    ],
+    "3834,14587": [
+      {
+        "id": "6245422924",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9372642,
+          19.1721769
+        ]
+      },
+      {
+        "id": "6245422925",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9385678,
+          19.1713206
+        ]
+      },
+      {
+        "id": "10804608600",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9360457,
+          19.1720897
+        ]
+      }
+    ],
+    "3836,14587": [
+      {
+        "id": "6786448145",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9383464,
+          19.1802774
+        ]
+      }
+    ],
+    "3845,14572": [
+      {
+        "id": "6824541042",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8643637,
+          19.2251269
+        ]
+      }
+    ],
+    "3792,14566": [
+      {
+        "id": "7565221201",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8332554,
+          18.9620125
+        ]
+      },
+      {
+        "id": "7565221202",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8333867,
+          18.9621913
+        ]
+      }
+    ],
+    "3848,14594": [
+      {
+        "id": "8481940507",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9708013,
+          19.243093
+        ]
+      }
+    ],
+    "3845,14571": [
+      {
+        "id": "9115710876",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8563596,
+          19.2290743
+        ]
+      },
+      {
+        "id": "12959069285",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.857343,
+          19.2293086
+        ]
+      },
+      {
+        "id": "12959069288",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.857327,
+          19.2292048
+        ]
+      }
+    ],
+    "3825,14563": [
+      {
+        "id": "9122432402",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.817564,
+          19.1292078
+        ]
+      }
+    ],
+    "3819,14565": [
+      {
+        "id": "9139971144",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8266508,
+          19.0976776
+        ]
+      }
+    ],
+    "3821,14565": [
+      {
+        "id": "9140907846",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8267907,
+          19.1092443
+        ]
+      }
+    ],
+    "3828,14560": [
+      {
+        "id": "9141087953",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8019407,
+          19.144453
+        ]
+      }
+    ],
+    "3825,14565": [
+      {
+        "id": "9141459225",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8295841,
+          19.129034
+        ]
+      }
+    ],
+    "3830,14566": [
+      {
+        "id": "9300003141",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8335136,
+          19.1509768
+        ]
+      },
+      {
+        "id": "9300003142",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.833549,
+          19.1507154
+        ]
+      },
+      {
+        "id": "9300003143",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8336089,
+          19.1505729
+        ]
+      }
+    ],
+    "3828,14566": [
+      {
+        "id": "9300003144",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8332852,
+          19.1430752
+        ]
+      }
+    ],
+    "3846,14595": [
+      {
+        "id": "9350865305",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9798362,
+          19.2303649
+        ]
+      }
+    ],
+    "3812,14585": [
+      {
+        "id": "9592416835",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9268772,
+          19.0610299
+        ]
+      }
+    ],
+    "3829,14597": [
+      {
+        "id": "9805690762",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9869448,
+          19.1480243
+        ]
+      }
+    ],
+    "3828,14597": [
+      {
+        "id": "9810985600",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9881051,
+          19.1448261
+        ]
+      }
+    ],
+    "3795,14567": [
+      {
+        "id": "10102940254",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8371866,
+          18.9773729
+        ]
+      }
+    ],
+    "3796,14567": [
+      {
+        "id": "10108062038",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8362892,
+          18.9802087
+        ]
+      }
+    ],
+    "3795,14566": [
+      {
+        "id": "10137458914",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8325133,
+          18.9768941
+        ]
+      }
+    ],
+    "3833,14588": [
+      {
+        "id": "10245266010",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9420023,
+          19.1695434
+        ]
+      }
+    ],
+    "3835,14588": [
+      {
+        "id": "10249204981",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9431489,
+          19.1776212
+        ]
+      },
+      {
+        "id": "12767802327",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9433282,
+          19.1777682
+        ]
+      },
+      {
+        "id": "12767802358",
+        "type": "Point",
+        "name": "Urinal",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9410798,
+          19.1779177
+        ]
+      }
+    ],
+    "3816,14583": [
+      {
+        "id": "10268069006",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9173637,
+          19.0805524
+        ]
+      }
+    ],
+    "3798,14564": [
+      {
+        "id": "10271314360",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8207099,
+          18.9925388
+        ]
+      }
+    ],
+    "3824,14579": [
+      {
+        "id": "10296439229",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8976616,
+          19.1234497
+        ]
+      }
+    ],
+    "3820,14566": [
+      {
+        "id": "10297892903",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8313702,
+          19.1042745
+        ]
+      }
+    ],
+    "3833,14589": [
+      {
+        "id": "10301015929",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9490605,
+          19.1654378
+        ]
+      }
+    ],
+    "3789,14568": [
+      {
+        "id": "10695162622",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8402169,
+          18.9480183
+        ]
+      }
+    ],
+    "3835,14587": [
+      {
+        "id": "10810529517",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9366615,
+          19.1788051
+        ]
+      },
+      {
+        "id": "10845482739",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9350769,
+          19.1752085
+        ]
+      }
+    ],
+    "3834,14586": [
+      {
+        "id": "10872822526",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9333889,
+          19.1748855
+        ]
+      },
+      {
+        "id": "11955775690",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9315108,
+          19.1722605
+        ]
+      }
+    ],
+    "3818,14571": [
+      {
+        "id": "11069678657",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8570017,
+          19.0922262
+        ]
+      }
+    ],
+    "3833,14590": [
+      {
+        "id": "11271586474",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9532676,
+          19.1696973
+        ]
+      },
+      {
+        "id": "11271609127",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9506304,
+          19.1672955
+        ]
+      }
+    ],
+    "3808,14571": [
+      {
+        "id": "11449433248",
+        "type": "Point",
+        "name": "Jan Jagruti",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8570661,
+          19.0422183
+        ]
+      }
+    ],
+    "3805,14566": [
+      {
+        "id": "11452113461",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8343034,
+          19.0256379
+        ]
+      }
+    ],
+    "3845,14598": [
+      {
+        "id": "11611005443",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9904993,
+          19.2288048
+        ]
+      }
+    ],
+    "3845,14597": [
+      {
+        "id": "11611013837",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9895686,
+          19.2276778
+        ]
+      },
+      {
+        "id": "11611029150",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9890428,
+          19.2289821
+        ]
+      }
+    ],
+    "3809,14572": [
+      {
+        "id": "11667092914",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8632116,
+          19.0471459
+        ]
+      }
+    ],
+    "3808,14586": [
+      {
+        "id": "11716428183",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9326646,
+          19.040356
+        ]
+      }
+    ],
+    "3806,14586": [
+      {
+        "id": "11716428188",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.930473,
+          19.0342795
+        ]
+      }
+    ],
+    "3805,14585": [
+      {
+        "id": "11716428208",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9255725,
+          19.0295857
+        ]
+      }
+    ],
+    "3807,14583": [
+      {
+        "id": "11716428216",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9195548,
+          19.0382635
+        ]
+      }
+    ],
+    "3830,14585": [
+      {
+        "id": "11942325462",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9258933,
+          19.1528605
+        ]
+      },
+      {
+        "id": "11942325602",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9263801,
+          19.1530813
+        ]
+      }
+    ],
+    "3829,14569": [
+      {
+        "id": "12289844963",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8455212,
+          19.1465088
+        ]
+      }
+    ],
+    "3823,14569": [
+      {
+        "id": "12290837437",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.846341,
+          19.1192893
+        ]
+      }
+    ],
+    "3784,14565": [
+      {
+        "id": "12299724443",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8260101,
+          18.920402
+        ]
+      }
+    ],
+    "3817,14581": [
+      {
+        "id": "12311779297",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9091251,
+          19.0856815
+        ]
+      },
+      {
+        "id": "13050240431",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9090688,
+          19.0854929
+        ]
+      }
+    ],
+    "3847,14595": [
+      {
+        "id": "12593387782",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9753443,
+          19.2369131
+        ]
+      }
+    ],
+    "3802,14569": [
+      {
+        "id": "12651956144",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8457701,
+          19.0148789
+        ]
+      },
+      {
+        "id": "12651956145",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8457847,
+          19.0149013
+        ]
+      }
+    ],
+    "3803,14568": [
+      {
+        "id": "12760272403",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8431028,
+          19.0196637
+        ]
+      },
+      {
+        "id": "12760272458",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8431205,
+          19.0196951
+        ]
+      }
+    ],
+    "3859,14572": [
+      {
+        "id": "12786048115",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8638335,
+          19.2968196
+        ]
+      }
+    ],
+    "3809,14570": [
+      {
+        "id": "12811685524",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8546664,
+          19.0479768
+        ]
+      }
+    ],
+    "3835,14593": [
+      {
+        "id": "12846796670",
+        "type": "Point",
+        "name": "Baba Da Dhaba",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9676015,
+          19.1764809
+        ]
+      },
+      {
+        "id": "12846796671",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9671771,
+          19.1787735
+        ]
+      }
+    ],
+    "3814,14579": [
+      {
+        "id": "12855022232",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8979677,
+          19.0732489
+        ]
+      }
+    ],
+    "3836,14593": [
+      {
+        "id": "12855222422",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.96707,
+          19.180211
+        ]
+      }
+    ],
+    "3845,14569": [
+      {
+        "id": "12865221005",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8497384,
+          19.2279994
+        ]
+      }
+    ],
+    "3845,14570": [
+      {
+        "id": "12865221025",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8508383,
+          19.2260296
+        ]
+      }
+    ],
+    "3835,14592": [
+      {
+        "id": "12875122166",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9612354,
+          19.1758846
+        ]
+      }
+    ],
+    "3816,14568": [
+      {
+        "id": "12936465956",
+        "type": "Point",
+        "name": "Mangal Shauchalay",
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8414178,
+          19.0824688
+        ]
+      }
+    ],
+    "3817,14567": [
+      {
+        "id": "12936465969",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8380556,
+          19.0884666
+        ]
+      }
+    ],
+    "3845,14574": [
+      {
+        "id": "12944124401",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8732015,
+          19.228696
+        ]
+      }
+    ],
+    "3824,14569": [
+      {
+        "id": "12959153791",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8464744,
+          19.1201778
+        ]
+      }
+    ],
+    "3837,14594": [
+      {
+        "id": "12959165311",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.9746416,
+          19.1863106
+        ]
+      }
+    ],
+    "3859,14571": [
+      {
+        "id": "13039699952",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8582695,
+          19.2958581
+        ]
+      }
+    ],
+    "3821,14567": [
+      {
+        "id": "13131311185",
+        "type": "Point",
+        "name": null,
+        "amenity": "toilets",
+        "landuse": "",
+        "coordinates": [
+          72.8369611,
+          19.1090313
+        ]
+      }
+    ]
+  }
+}

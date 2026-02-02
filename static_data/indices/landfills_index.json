@@ -1,0 +1,1234 @@
+{
+  "metadata": {
+    "poi_type": "landfills",
+    "grid_size": 0.005,
+    "feature_count": 16,
+    "grid_cells": 59,
+    "source_file": "landuse_landfill_multipolygons.geojson"
+  },
+  "grid_index": {
+    "3832,14593": [
+      {
+        "id": "151861273",
+        "type": "MultiPolygon",
+        "name": "Mulund Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.9729356,
+          19.16736555
+        ],
+        "bounds": [
+          19.1606443,
+          72.9684275,
+          19.1740868,
+          72.9774437
+        ]
+      }
+    ],
+    "3832,14594": [
+      {
+        "id": "151861273",
+        "type": "MultiPolygon",
+        "name": "Mulund Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.9729356,
+          19.16736555
+        ],
+        "bounds": [
+          19.1606443,
+          72.9684275,
+          19.1740868,
+          72.9774437
+        ]
+      }
+    ],
+    "3832,14595": [
+      {
+        "id": "151861273",
+        "type": "MultiPolygon",
+        "name": "Mulund Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.9729356,
+          19.16736555
+        ],
+        "bounds": [
+          19.1606443,
+          72.9684275,
+          19.1740868,
+          72.9774437
+        ]
+      }
+    ],
+    "3833,14593": [
+      {
+        "id": "151861273",
+        "type": "MultiPolygon",
+        "name": "Mulund Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.9729356,
+          19.16736555
+        ],
+        "bounds": [
+          19.1606443,
+          72.9684275,
+          19.1740868,
+          72.9774437
+        ]
+      }
+    ],
+    "3833,14594": [
+      {
+        "id": "151861273",
+        "type": "MultiPolygon",
+        "name": "Mulund Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.9729356,
+          19.16736555
+        ],
+        "bounds": [
+          19.1606443,
+          72.9684275,
+          19.1740868,
+          72.9774437
+        ]
+      }
+    ],
+    "3833,14595": [
+      {
+        "id": "151861273",
+        "type": "MultiPolygon",
+        "name": "Mulund Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.9729356,
+          19.16736555
+        ],
+        "bounds": [
+          19.1606443,
+          72.9684275,
+          19.1740868,
+          72.9774437
+        ]
+      }
+    ],
+    "3834,14593": [
+      {
+        "id": "151861273",
+        "type": "MultiPolygon",
+        "name": "Mulund Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.9729356,
+          19.16736555
+        ],
+        "bounds": [
+          19.1606443,
+          72.9684275,
+          19.1740868,
+          72.9774437
+        ]
+      }
+    ],
+    "3834,14594": [
+      {
+        "id": "151861273",
+        "type": "MultiPolygon",
+        "name": "Mulund Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.9729356,
+          19.16736555
+        ],
+        "bounds": [
+          19.1606443,
+          72.9684275,
+          19.1740868,
+          72.9774437
+        ]
+      }
+    ],
+    "3834,14595": [
+      {
+        "id": "151861273",
+        "type": "MultiPolygon",
+        "name": "Mulund Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.9729356,
+          19.16736555
+        ],
+        "bounds": [
+          19.1606443,
+          72.9684275,
+          19.1740868,
+          72.9774437
+        ]
+      }
+    ],
+    "3846,14564": [
+      {
+        "id": "257455759",
+        "type": "MultiPolygon",
+        "name": "Gorai Landfill",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.82663815000001,
+          19.23641675
+        ],
+        "bounds": [
+          19.2340162,
+          72.8246781,
+          19.2388173,
+          72.8285982
+        ]
+      }
+    ],
+    "3846,14565": [
+      {
+        "id": "257455759",
+        "type": "MultiPolygon",
+        "name": "Gorai Landfill",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.82663815000001,
+          19.23641675
+        ],
+        "bounds": [
+          19.2340162,
+          72.8246781,
+          19.2388173,
+          72.8285982
+        ]
+      }
+    ],
+    "3847,14564": [
+      {
+        "id": "257455759",
+        "type": "MultiPolygon",
+        "name": "Gorai Landfill",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.82663815000001,
+          19.23641675
+        ],
+        "bounds": [
+          19.2340162,
+          72.8246781,
+          19.2388173,
+          72.8285982
+        ]
+      }
+    ],
+    "3847,14565": [
+      {
+        "id": "257455759",
+        "type": "MultiPolygon",
+        "name": "Gorai Landfill",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.82663815000001,
+          19.23641675
+        ],
+        "bounds": [
+          19.2340162,
+          72.8246781,
+          19.2388173,
+          72.8285982
+        ]
+      }
+    ],
+    "3824,14588": [
+      {
+        "id": "257455760",
+        "type": "MultiPolygon",
+        "name": "Kanjur Landfill",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.95144905000001,
+          19.12415395
+        ],
+        "bounds": [
+          19.1200662,
+          72.9418676,
+          19.1282417,
+          72.9610305
+        ]
+      }
+    ],
+    "3824,14589": [
+      {
+        "id": "257455760",
+        "type": "MultiPolygon",
+        "name": "Kanjur Landfill",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.95144905000001,
+          19.12415395
+        ],
+        "bounds": [
+          19.1200662,
+          72.9418676,
+          19.1282417,
+          72.9610305
+        ]
+      }
+    ],
+    "3824,14590": [
+      {
+        "id": "257455760",
+        "type": "MultiPolygon",
+        "name": "Kanjur Landfill",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.95144905000001,
+          19.12415395
+        ],
+        "bounds": [
+          19.1200662,
+          72.9418676,
+          19.1282417,
+          72.9610305
+        ]
+      }
+    ],
+    "3824,14591": [
+      {
+        "id": "257455760",
+        "type": "MultiPolygon",
+        "name": "Kanjur Landfill",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.95144905000001,
+          19.12415395
+        ],
+        "bounds": [
+          19.1200662,
+          72.9418676,
+          19.1282417,
+          72.9610305
+        ]
+      }
+    ],
+    "3824,14592": [
+      {
+        "id": "257455760",
+        "type": "MultiPolygon",
+        "name": "Kanjur Landfill",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.95144905000001,
+          19.12415395
+        ],
+        "bounds": [
+          19.1200662,
+          72.9418676,
+          19.1282417,
+          72.9610305
+        ]
+      }
+    ],
+    "3825,14588": [
+      {
+        "id": "257455760",
+        "type": "MultiPolygon",
+        "name": "Kanjur Landfill",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.95144905000001,
+          19.12415395
+        ],
+        "bounds": [
+          19.1200662,
+          72.9418676,
+          19.1282417,
+          72.9610305
+        ]
+      }
+    ],
+    "3825,14589": [
+      {
+        "id": "257455760",
+        "type": "MultiPolygon",
+        "name": "Kanjur Landfill",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.95144905000001,
+          19.12415395
+        ],
+        "bounds": [
+          19.1200662,
+          72.9418676,
+          19.1282417,
+          72.9610305
+        ]
+      }
+    ],
+    "3825,14590": [
+      {
+        "id": "257455760",
+        "type": "MultiPolygon",
+        "name": "Kanjur Landfill",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.95144905000001,
+          19.12415395
+        ],
+        "bounds": [
+          19.1200662,
+          72.9418676,
+          19.1282417,
+          72.9610305
+        ]
+      }
+    ],
+    "3825,14591": [
+      {
+        "id": "257455760",
+        "type": "MultiPolygon",
+        "name": "Kanjur Landfill",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.95144905000001,
+          19.12415395
+        ],
+        "bounds": [
+          19.1200662,
+          72.9418676,
+          19.1282417,
+          72.9610305
+        ]
+      }
+    ],
+    "3825,14592": [
+      {
+        "id": "257455760",
+        "type": "MultiPolygon",
+        "name": "Kanjur Landfill",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.95144905000001,
+          19.12415395
+        ],
+        "bounds": [
+          19.1200662,
+          72.9418676,
+          19.1282417,
+          72.9610305
+        ]
+      }
+    ],
+    "3811,14584": [
+      {
+        "id": "289511744",
+        "type": "MultiPolygon",
+        "name": "Deonar Municipal Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.92944370000001,
+          19.066944200000002
+        ],
+        "bounds": [
+          19.0586441,
+          72.9214551,
+          19.0752443,
+          72.9374323
+        ]
+      }
+    ],
+    "3811,14585": [
+      {
+        "id": "289511744",
+        "type": "MultiPolygon",
+        "name": "Deonar Municipal Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.92944370000001,
+          19.066944200000002
+        ],
+        "bounds": [
+          19.0586441,
+          72.9214551,
+          19.0752443,
+          72.9374323
+        ]
+      }
+    ],
+    "3811,14586": [
+      {
+        "id": "289511744",
+        "type": "MultiPolygon",
+        "name": "Deonar Municipal Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.92944370000001,
+          19.066944200000002
+        ],
+        "bounds": [
+          19.0586441,
+          72.9214551,
+          19.0752443,
+          72.9374323
+        ]
+      }
+    ],
+    "3811,14587": [
+      {
+        "id": "289511744",
+        "type": "MultiPolygon",
+        "name": "Deonar Municipal Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.92944370000001,
+          19.066944200000002
+        ],
+        "bounds": [
+          19.0586441,
+          72.9214551,
+          19.0752443,
+          72.9374323
+        ]
+      }
+    ],
+    "3812,14584": [
+      {
+        "id": "289511744",
+        "type": "MultiPolygon",
+        "name": "Deonar Municipal Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.92944370000001,
+          19.066944200000002
+        ],
+        "bounds": [
+          19.0586441,
+          72.9214551,
+          19.0752443,
+          72.9374323
+        ]
+      }
+    ],
+    "3812,14585": [
+      {
+        "id": "289511744",
+        "type": "MultiPolygon",
+        "name": "Deonar Municipal Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.92944370000001,
+          19.066944200000002
+        ],
+        "bounds": [
+          19.0586441,
+          72.9214551,
+          19.0752443,
+          72.9374323
+        ]
+      },
+      {
+        "id": "314528563",
+        "type": "MultiPolygon",
+        "name": null,
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.9308069,
+          19.06606585
+        ],
+        "bounds": [
+          19.0649442,
+          72.9297771,
+          19.0671875,
+          72.9318367
+        ]
+      }
+    ],
+    "3812,14586": [
+      {
+        "id": "289511744",
+        "type": "MultiPolygon",
+        "name": "Deonar Municipal Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.92944370000001,
+          19.066944200000002
+        ],
+        "bounds": [
+          19.0586441,
+          72.9214551,
+          19.0752443,
+          72.9374323
+        ]
+      },
+      {
+        "id": "314528563",
+        "type": "MultiPolygon",
+        "name": null,
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.9308069,
+          19.06606585
+        ],
+        "bounds": [
+          19.0649442,
+          72.9297771,
+          19.0671875,
+          72.9318367
+        ]
+      }
+    ],
+    "3812,14587": [
+      {
+        "id": "289511744",
+        "type": "MultiPolygon",
+        "name": "Deonar Municipal Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.92944370000001,
+          19.066944200000002
+        ],
+        "bounds": [
+          19.0586441,
+          72.9214551,
+          19.0752443,
+          72.9374323
+        ]
+      }
+    ],
+    "3813,14584": [
+      {
+        "id": "289511744",
+        "type": "MultiPolygon",
+        "name": "Deonar Municipal Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.92944370000001,
+          19.066944200000002
+        ],
+        "bounds": [
+          19.0586441,
+          72.9214551,
+          19.0752443,
+          72.9374323
+        ]
+      }
+    ],
+    "3813,14585": [
+      {
+        "id": "289511744",
+        "type": "MultiPolygon",
+        "name": "Deonar Municipal Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.92944370000001,
+          19.066944200000002
+        ],
+        "bounds": [
+          19.0586441,
+          72.9214551,
+          19.0752443,
+          72.9374323
+        ]
+      },
+      {
+        "id": "314528563",
+        "type": "MultiPolygon",
+        "name": null,
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.9308069,
+          19.06606585
+        ],
+        "bounds": [
+          19.0649442,
+          72.9297771,
+          19.0671875,
+          72.9318367
+        ]
+      }
+    ],
+    "3813,14586": [
+      {
+        "id": "289511744",
+        "type": "MultiPolygon",
+        "name": "Deonar Municipal Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.92944370000001,
+          19.066944200000002
+        ],
+        "bounds": [
+          19.0586441,
+          72.9214551,
+          19.0752443,
+          72.9374323
+        ]
+      },
+      {
+        "id": "314528563",
+        "type": "MultiPolygon",
+        "name": null,
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.9308069,
+          19.06606585
+        ],
+        "bounds": [
+          19.0649442,
+          72.9297771,
+          19.0671875,
+          72.9318367
+        ]
+      }
+    ],
+    "3813,14587": [
+      {
+        "id": "289511744",
+        "type": "MultiPolygon",
+        "name": "Deonar Municipal Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.92944370000001,
+          19.066944200000002
+        ],
+        "bounds": [
+          19.0586441,
+          72.9214551,
+          19.0752443,
+          72.9374323
+        ]
+      }
+    ],
+    "3814,14584": [
+      {
+        "id": "289511744",
+        "type": "MultiPolygon",
+        "name": "Deonar Municipal Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.92944370000001,
+          19.066944200000002
+        ],
+        "bounds": [
+          19.0586441,
+          72.9214551,
+          19.0752443,
+          72.9374323
+        ]
+      }
+    ],
+    "3814,14585": [
+      {
+        "id": "289511744",
+        "type": "MultiPolygon",
+        "name": "Deonar Municipal Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.92944370000001,
+          19.066944200000002
+        ],
+        "bounds": [
+          19.0586441,
+          72.9214551,
+          19.0752443,
+          72.9374323
+        ]
+      }
+    ],
+    "3814,14586": [
+      {
+        "id": "289511744",
+        "type": "MultiPolygon",
+        "name": "Deonar Municipal Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.92944370000001,
+          19.066944200000002
+        ],
+        "bounds": [
+          19.0586441,
+          72.9214551,
+          19.0752443,
+          72.9374323
+        ]
+      }
+    ],
+    "3814,14587": [
+      {
+        "id": "289511744",
+        "type": "MultiPolygon",
+        "name": "Deonar Municipal Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.92944370000001,
+          19.066944200000002
+        ],
+        "bounds": [
+          19.0586441,
+          72.9214551,
+          19.0752443,
+          72.9374323
+        ]
+      }
+    ],
+    "3815,14584": [
+      {
+        "id": "289511744",
+        "type": "MultiPolygon",
+        "name": "Deonar Municipal Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.92944370000001,
+          19.066944200000002
+        ],
+        "bounds": [
+          19.0586441,
+          72.9214551,
+          19.0752443,
+          72.9374323
+        ]
+      }
+    ],
+    "3815,14585": [
+      {
+        "id": "289511744",
+        "type": "MultiPolygon",
+        "name": "Deonar Municipal Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.92944370000001,
+          19.066944200000002
+        ],
+        "bounds": [
+          19.0586441,
+          72.9214551,
+          19.0752443,
+          72.9374323
+        ]
+      }
+    ],
+    "3815,14586": [
+      {
+        "id": "289511744",
+        "type": "MultiPolygon",
+        "name": "Deonar Municipal Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.92944370000001,
+          19.066944200000002
+        ],
+        "bounds": [
+          19.0586441,
+          72.9214551,
+          19.0752443,
+          72.9374323
+        ]
+      }
+    ],
+    "3815,14587": [
+      {
+        "id": "289511744",
+        "type": "MultiPolygon",
+        "name": "Deonar Municipal Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.92944370000001,
+          19.066944200000002
+        ],
+        "bounds": [
+          19.0586441,
+          72.9214551,
+          19.0752443,
+          72.9374323
+        ]
+      }
+    ],
+    "3829,14563": [
+      {
+        "id": "533717900",
+        "type": "MultiPolygon",
+        "name": null,
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.81703145,
+          19.1473701
+        ],
+        "bounds": [
+          19.1467341,
+          72.8164923,
+          19.1480061,
+          72.8175706
+        ]
+      }
+    ],
+    "3836,14590": [
+      {
+        "id": "627628781",
+        "type": "MultiPolygon",
+        "name": "Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.95342725,
+          19.1812121
+        ],
+        "bounds": [
+          19.1808259,
+          72.9529446,
+          19.1815983,
+          72.9539099
+        ]
+      }
+    ],
+    "3848,14567": [
+      {
+        "id": "1218246459",
+        "type": "MultiPolygon",
+        "name": null,
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.8402375,
+          19.24422535
+        ],
+        "bounds": [
+          19.2430982,
+          72.8395837,
+          19.2453525,
+          72.8408913
+        ]
+      }
+    ],
+    "3848,14568": [
+      {
+        "id": "1218246459",
+        "type": "MultiPolygon",
+        "name": null,
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.8402375,
+          19.24422535
+        ],
+        "bounds": [
+          19.2430982,
+          72.8395837,
+          19.2453525,
+          72.8408913
+        ]
+      }
+    ],
+    "3849,14567": [
+      {
+        "id": "1218246459",
+        "type": "MultiPolygon",
+        "name": null,
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.8402375,
+          19.24422535
+        ],
+        "bounds": [
+          19.2430982,
+          72.8395837,
+          19.2453525,
+          72.8408913
+        ]
+      }
+    ],
+    "3849,14568": [
+      {
+        "id": "1218246459",
+        "type": "MultiPolygon",
+        "name": null,
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.8402375,
+          19.24422535
+        ],
+        "bounds": [
+          19.2430982,
+          72.8395837,
+          19.2453525,
+          72.8408913
+        ]
+      }
+    ],
+    "3857,14558": [
+      {
+        "id": "1258941019",
+        "type": "MultiPolygon",
+        "name": "MBMC Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.79432255,
+          19.2877916
+        ],
+        "bounds": [
+          19.2855167,
+          72.7922834,
+          19.2900665,
+          72.7963617
+        ]
+      }
+    ],
+    "3857,14559": [
+      {
+        "id": "1258941019",
+        "type": "MultiPolygon",
+        "name": "MBMC Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.79432255,
+          19.2877916
+        ],
+        "bounds": [
+          19.2855167,
+          72.7922834,
+          19.2900665,
+          72.7963617
+        ]
+      }
+    ],
+    "3858,14558": [
+      {
+        "id": "1258941019",
+        "type": "MultiPolygon",
+        "name": "MBMC Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.79432255,
+          19.2877916
+        ],
+        "bounds": [
+          19.2855167,
+          72.7922834,
+          19.2900665,
+          72.7963617
+        ]
+      }
+    ],
+    "3858,14559": [
+      {
+        "id": "1258941019",
+        "type": "MultiPolygon",
+        "name": "MBMC Dumping Ground",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.79432255,
+          19.2877916
+        ],
+        "bounds": [
+          19.2855167,
+          72.7922834,
+          19.2900665,
+          72.7963617
+        ]
+      }
+    ],
+    "3794,14569": [
+      {
+        "id": "1386099085",
+        "type": "MultiPolygon",
+        "name": null,
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.8495948,
+          18.97176155
+        ],
+        "bounds": [
+          18.9707672,
+          72.848931,
+          18.9727559,
+          72.8502586
+        ]
+      }
+    ],
+    "3794,14570": [
+      {
+        "id": "1386099085",
+        "type": "MultiPolygon",
+        "name": null,
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.8495948,
+          18.97176155
+        ],
+        "bounds": [
+          18.9707672,
+          72.848931,
+          18.9727559,
+          72.8502586
+        ]
+      },
+      {
+        "id": "1386099086",
+        "type": "MultiPolygon",
+        "name": "Dump",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.8522703,
+          18.9726443
+        ],
+        "bounds": [
+          18.9721573,
+          72.8511572,
+          18.9731313,
+          72.8533834
+        ]
+      }
+    ],
+    "3835,14587": [
+      {
+        "id": "1387674205",
+        "type": "MultiPolygon",
+        "name": "Illegal Dump Site",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.9361935,
+          19.1794993
+        ],
+        "bounds": [
+          19.1794287,
+          72.9360981,
+          19.1795699,
+          72.9362889
+        ]
+      }
+    ],
+    "3835,14592": [
+      {
+        "id": "1390926976",
+        "type": "MultiPolygon",
+        "name": "Illegal Dump Site",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.9613389,
+          19.17583295
+        ],
+        "bounds": [
+          19.1757887,
+          72.9612965,
+          19.1758772,
+          72.9613813
+        ]
+      }
+    ],
+    "3839,14588": [
+      {
+        "id": "1392345563",
+        "type": "MultiPolygon",
+        "name": "Illegal Dump Site",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.94118420000001,
+          19.19612715
+        ],
+        "bounds": [
+          19.1960201,
+          72.9411462,
+          19.1962342,
+          72.9412222
+        ]
+      },
+      {
+        "id": "1392345577",
+        "type": "MultiPolygon",
+        "name": "Illegal Dump Site",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.9411168,
+          19.195741650000002
+        ],
+        "bounds": [
+          19.1956175,
+          72.9410885,
+          19.1958658,
+          72.9411451
+        ]
+      }
+    ],
+    "3838,14588": [
+      {
+        "id": "1392345567",
+        "type": "MultiPolygon",
+        "name": "Illegal Dump Site",
+        "amenity": "",
+        "landuse": "landfill",
+        "coordinates": [
+          72.94104595,
+          19.19479205
+        ],
+        "bounds": [
+          19.1946871,
+          72.9410141,
+          19.194897,
+          72.9410778
+        ]
+      }
+    ]
+  }
+}

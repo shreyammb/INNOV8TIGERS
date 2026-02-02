@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "grid_size": 0.005,
+    "generated_at": null,
+    "available_indices": [
+      "schools",
+      "toilets",
+      "landfills"
+    ]
+  },
+  "poi_types": {
+    "schools": "schools_index.json",
+    "toilets": "toilets_index.json",
+    "landfills": "landfills_index.json"
+  }
+}

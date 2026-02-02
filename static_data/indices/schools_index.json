@@ -1,0 +1,2407 @@
+{
+  "metadata": {
+    "poi_type": "schools",
+    "grid_size": 0.005,
+    "feature_count": 192,
+    "grid_cells": 142,
+    "source_file": "amenity_school_points.geojson"
+  },
+  "grid_index": {
+    "3816,14567": [
+      {
+        "id": "245668712",
+        "type": "Point",
+        "name": "Classic",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8384747,
+          19.0835527
+        ]
+      },
+      {
+        "id": "6212677778",
+        "type": "Point",
+        "name": "Smt. Lilavatibai Podar High School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8371727,
+          19.0810735
+        ]
+      }
+    ],
+    "3808,14585": [
+      {
+        "id": "246446609",
+        "type": "Point",
+        "name": "Home for mental deficient childern",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9256871,
+          19.0436727
+        ]
+      }
+    ],
+    "3811,14565": [
+      {
+        "id": "347125102",
+        "type": "Point",
+        "name": "Apostolic Carmel Convent (Girl's School)",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8262102,
+          19.0550042
+        ]
+      },
+      {
+        "id": "2610552085",
+        "type": "Point",
+        "name": "Gate No. 3",
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.8286675,
+          19.057382
+        ]
+      },
+      {
+        "id": "12668986287",
+        "type": "Point",
+        "name": "Gate No. 2",
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.8285149,
+          19.0573766
+        ]
+      },
+      {
+        "id": "12668986288",
+        "type": "Point",
+        "name": "Gate No. 1",
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.8284207,
+          19.0573732
+        ]
+      },
+      {
+        "id": "12668986289",
+        "type": "Point",
+        "name": null,
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.828555,
+          19.057378
+        ]
+      },
+      {
+        "id": "12668986290",
+        "type": "Point",
+        "name": null,
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.8285589,
+          19.0573781
+        ]
+      },
+      {
+        "id": "12715439169",
+        "type": "Point",
+        "name": "Gate 3",
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.8299043,
+          19.0565889
+        ]
+      }
+    ],
+    "3781,14561": [
+      {
+        "id": "628634787",
+        "type": "Point",
+        "name": null,
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.8066761,
+          18.9092604
+        ]
+      },
+      {
+        "id": "11064882617",
+        "type": "Point",
+        "name": null,
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.8068685,
+          18.9095698
+        ]
+      },
+      {
+        "id": "11064882618",
+        "type": "Point",
+        "name": null,
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.8070897,
+          18.9099255
+        ]
+      },
+      {
+        "id": "11064882620",
+        "type": "Point",
+        "name": null,
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.8084069,
+          18.909625
+        ]
+      }
+    ],
+    "3813,14581": [
+      {
+        "id": "651265089",
+        "type": "Point",
+        "name": "Modern English School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9063356,
+          19.065657
+        ]
+      }
+    ],
+    "3846,14568": [
+      {
+        "id": "814384677",
+        "type": "Point",
+        "name": "Don Bosco Primary School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.841711,
+          19.2312257
+        ]
+      },
+      {
+        "id": "814385412",
+        "type": "Point",
+        "name": "Don Bosco High School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8418808,
+          19.2303902
+        ]
+      },
+      {
+        "id": "4643901366",
+        "type": "Point",
+        "name": "suvidyalay",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8433059,
+          19.2314533
+        ]
+      }
+    ],
+    "3832,14570": [
+      {
+        "id": "984985842",
+        "type": "Point",
+        "name": "Nandadeep Vidyalay",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8548539,
+          19.1625315
+        ]
+      }
+    ],
+    "3832,14571": [
+      {
+        "id": "1142182289",
+        "type": "Point",
+        "name": "Muncipal Pahadi School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8553881,
+          19.1644938
+        ]
+      }
+    ],
+    "3833,14569": [
+      {
+        "id": "1168348915",
+        "type": "Point",
+        "name": "St. Thomas School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8498342,
+          19.1670343
+        ]
+      }
+    ],
+    "3833,14570": [
+      {
+        "id": "1168348939",
+        "type": "Point",
+        "name": "St. Thomas School Ground",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8500761,
+          19.1693345
+        ]
+      }
+    ],
+    "3838,14569": [
+      {
+        "id": "1347702333",
+        "type": "Point",
+        "name": "NL High School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8474592,
+          19.192628
+        ]
+      },
+      {
+        "id": "10232553825",
+        "type": "Point",
+        "name": "The Bombay Suburban Grain Dealers’ Junior College of Commerce, Arts and Science",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8479114,
+          19.1926241
+        ]
+      },
+      {
+        "id": "10645494069",
+        "type": "Point",
+        "name": "Aspee Nutan English Medium School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8457233,
+          19.1922983
+        ]
+      }
+    ],
+    "3837,14568": [
+      {
+        "id": "1347723684",
+        "type": "Point",
+        "name": "Municipal Corporation Liberty Garden School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8412266,
+          19.188526
+        ]
+      }
+    ],
+    "3846,14569": [
+      {
+        "id": "1352290055",
+        "type": "Point",
+        "name": "Ajmera Global School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8467515,
+          19.2331345
+        ]
+      }
+    ],
+    "3838,14570": [
+      {
+        "id": "1361567957",
+        "type": "Point",
+        "name": "Sharda Gyanpeeth International School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8548987,
+          19.1930649
+        ]
+      }
+    ],
+    "3838,14571": [
+      {
+        "id": "1361576661",
+        "type": "Point",
+        "name": "St. Joseph High School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8569264,
+          19.1904293
+        ]
+      }
+    ],
+    "3837,14571": [
+      {
+        "id": "1361576666",
+        "type": "Point",
+        "name": "St. George High School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8563332,
+          19.1893461
+        ]
+      }
+    ],
+    "3837,14570": [
+      {
+        "id": "1361584423",
+        "type": "Point",
+        "name": "Universal High School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8505882,
+          19.1885552
+        ]
+      }
+    ],
+    "3831,14569": [
+      {
+        "id": "1368753139",
+        "type": "Point",
+        "name": "IB Patel School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8476552,
+          19.1578421
+        ]
+      }
+    ],
+    "3839,14565": [
+      {
+        "id": "1416530124",
+        "type": "Point",
+        "name": "Atharva College of Engineering",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8270575,
+          19.1977249
+        ]
+      }
+    ],
+    "3845,14571": [
+      {
+        "id": "1496182478",
+        "type": "Point",
+        "name": "Muncipal School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8597251,
+          19.2271718
+        ]
+      }
+    ],
+    "3820,14570": [
+      {
+        "id": "1541880069",
+        "type": "Point",
+        "name": "Shivaji School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8509934,
+          19.1044999
+        ]
+      },
+      {
+        "id": "5702656722",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8511863,
+          19.1025143
+        ]
+      }
+    ],
+    "3850,14572": [
+      {
+        "id": "1646690981",
+        "type": "Point",
+        "name": "Vidhyamandir School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8604849,
+          19.2549733
+        ]
+      },
+      {
+        "id": "4621599298",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8649892,
+          19.2545722
+        ]
+      }
+    ],
+    "3842,14589": [
+      {
+        "id": "1822484361",
+        "type": "Point",
+        "name": "Raja Shivaji Vidya Mandir",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9486036,
+          19.2132365
+        ]
+      }
+    ],
+    "3845,14589": [
+      {
+        "id": "1822485925",
+        "type": "Point",
+        "name": "TMC Municipal School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9477801,
+          19.2287366
+        ]
+      }
+    ],
+    "3846,14567": [
+      {
+        "id": "1833267114",
+        "type": "Point",
+        "name": "Sai Lee International School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.83875,
+          19.2308036
+        ]
+      }
+    ],
+    "3843,14592": [
+      {
+        "id": "1855273113",
+        "type": "Point",
+        "name": "Little Flower High School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9615534,
+          19.2172685
+        ]
+      }
+    ],
+    "3821,14573": [
+      {
+        "id": "2188860671",
+        "type": "Point",
+        "name": "Shri Kalgidar Mission High School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8656323,
+          19.1098804
+        ]
+      }
+    ],
+    "3810,14580": [
+      {
+        "id": "2319154356",
+        "type": "Point",
+        "name": "National Job Development Center",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.904674,
+          19.0524328
+        ]
+      }
+    ],
+    "3811,14580": [
+      {
+        "id": "2319171657",
+        "type": "Point",
+        "name": "Sevadaan Special School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9021934,
+          19.0560049
+        ]
+      }
+    ],
+    "3826,14562": [
+      {
+        "id": "2398524838",
+        "type": "Point",
+        "name": "Holy Cross Convent",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8141999,
+          19.1318859
+        ]
+      }
+    ],
+    "3792,14563": [
+      {
+        "id": "2457605417",
+        "type": "Point",
+        "name": "Edubridge International School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.815365,
+          18.9600399
+        ]
+      },
+      {
+        "id": "7405863749",
+        "type": "Point",
+        "name": "Grant Road Central High School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8159226,
+          18.9634363
+        ]
+      }
+    ],
+    "3809,14585": [
+      {
+        "id": "2567512028",
+        "type": "Point",
+        "name": "Padua High School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9290015,
+          19.0464086
+        ]
+      }
+    ],
+    "3812,14584": [
+      {
+        "id": "2930729183",
+        "type": "Point",
+        "name": "Daffodil School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.924533,
+          19.0623206
+        ]
+      }
+    ],
+    "3830,14586": [
+      {
+        "id": "2981312732",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9344514,
+          19.154683
+        ]
+      }
+    ],
+    "3808,14589": [
+      {
+        "id": "3125232138",
+        "type": "Point",
+        "name": "Azad School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9487218,
+          19.0408975
+        ]
+      },
+      {
+        "id": "3125242385",
+        "type": "Point",
+        "name": "Sana Classes",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9470838,
+          19.0405291
+        ]
+      },
+      {
+        "id": "7463765612",
+        "type": "Point",
+        "name": "Trombay Public High School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.948564,
+          19.0406739
+        ]
+      }
+    ],
+    "3820,14583": [
+      {
+        "id": "3205774880",
+        "type": "Point",
+        "name": "sandesh school",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9165625,
+          19.1028771
+        ]
+      }
+    ],
+    "3807,14571": [
+      {
+        "id": "3205780114",
+        "type": "Point",
+        "name": "Little Angels' High School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8550806,
+          19.0372258
+        ]
+      }
+    ],
+    "3830,14585": [
+      {
+        "id": "3207212808",
+        "type": "Point",
+        "name": "Br. Nath Pai Vidyalaya",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9278371,
+          19.1505995
+        ]
+      }
+    ],
+    "3814,14584": [
+      {
+        "id": "3226171882",
+        "type": "Point",
+        "name": "Madersa Ayesha Lil-Banat Education Trest",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9207279,
+          19.0714514
+        ]
+      }
+    ],
+    "3835,14590": [
+      {
+        "id": "3234672821",
+        "type": "Point",
+        "name": "Lohana Kanya Shala School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9509505,
+          19.1782486
+        ]
+      },
+      {
+        "id": "3234672822",
+        "type": "Point",
+        "name": "Nav Bharat School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9508834,
+          19.1783195
+        ]
+      }
+    ],
+    "3824,14565": [
+      {
+        "id": "3358927386",
+        "type": "Point",
+        "name": "Cosmopolitan Education Society",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8299769,
+          19.1246547
+        ]
+      }
+    ],
+    "3827,14563": [
+      {
+        "id": "3434371521",
+        "type": "Point",
+        "name": "Kishore Namit Kapoor Acting Institute",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8194616,
+          19.1398687
+        ]
+      }
+    ],
+    "3834,14573": [
+      {
+        "id": "3469161205",
+        "type": "Point",
+        "name": "Yashodham High School & Jr. College",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8665731,
+          19.1734642
+        ]
+      }
+    ],
+    "3819,14578": [
+      {
+        "id": "3518468316",
+        "type": "Point",
+        "name": "THERESA HIGH SCHOOL",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8924407,
+          19.0982356
+        ]
+      }
+    ],
+    "3840,14596": [
+      {
+        "id": "3589401882",
+        "type": "Point",
+        "name": "Municipal Primary School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9817615,
+          19.2043149
+        ]
+      }
+    ],
+    "3824,14586": [
+      {
+        "id": "3602820589",
+        "type": "Point",
+        "name": "Guru Gobind English High School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9345592,
+          19.122151
+        ]
+      },
+      {
+        "id": "7912349790",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9308431,
+          19.1210633
+        ]
+      }
+    ],
+    "3783,14563": [
+      {
+        "id": "4044345936",
+        "type": "Point",
+        "name": "B.D. Somani International School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8199209,
+          18.9160698
+        ]
+      }
+    ],
+    "3835,14568": [
+      {
+        "id": "4129555889",
+        "type": "Point",
+        "name": "D G Khetan International School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8417834,
+          19.176347
+        ]
+      }
+    ],
+    "3813,14574": [
+      {
+        "id": "4185780309",
+        "type": "Point",
+        "name": "American School of Bombay",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.870696,
+          19.067664
+        ]
+      }
+    ],
+    "3812,14565": [
+      {
+        "id": "4247756492",
+        "type": "Point",
+        "name": "Safari Kid",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8292224,
+          19.0614758
+        ]
+      },
+      {
+        "id": "11296361349",
+        "type": "Point",
+        "name": "Learner's Academy I.C.S.E School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8270872,
+          19.061141
+        ]
+      }
+    ],
+    "3849,14596": [
+      {
+        "id": "4256155766",
+        "type": "Point",
+        "name": "Universal high school",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9845766,
+          19.2461807
+        ]
+      }
+    ],
+    "3812,14566": [
+      {
+        "id": "4303179586",
+        "type": "Point",
+        "name": "Duruelo Convent High School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8327783,
+          19.0608358
+        ]
+      }
+    ],
+    "3819,14577": [
+      {
+        "id": "4326461790",
+        "type": "Point",
+        "name": "KPM High School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8877852,
+          19.0950394
+        ]
+      }
+    ],
+    "3822,14573": [
+      {
+        "id": "4348335890",
+        "type": "Point",
+        "name": "shri Ghanshamdas podhar vidyalay Rajasthani school",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8679618,
+          19.1115552
+        ]
+      }
+    ],
+    "3840,14564": [
+      {
+        "id": "4498884750",
+        "type": "Point",
+        "name": "Billabong International School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8213105,
+          19.2024655
+        ]
+      }
+    ],
+    "3818,14568": [
+      {
+        "id": "4529961390",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8446354,
+          19.0923132
+        ]
+      }
+    ],
+    "3858,14572": [
+      {
+        "id": "4548680289",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8605886,
+          19.2946207
+        ]
+      }
+    ],
+    "3839,14598": [
+      {
+        "id": "4707588491",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9906035,
+          19.1987374
+        ]
+      }
+    ],
+    "3825,14570": [
+      {
+        "id": "4736406821",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8540339,
+          19.1257176
+        ]
+      }
+    ],
+    "3827,14585": [
+      {
+        "id": "4761353927",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9289194,
+          19.1359127
+        ]
+      }
+    ],
+    "3840,14591": [
+      {
+        "id": "4776554421",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9590698,
+          19.2014028
+        ]
+      }
+    ],
+    "3834,14591": [
+      {
+        "id": "4791169422",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9567409,
+          19.1701311
+        ]
+      },
+      {
+        "id": "4791178924",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9574827,
+          19.1715227
+        ]
+      },
+      {
+        "id": "7291605785",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9574287,
+          19.1713839
+        ]
+      }
+    ],
+    "3834,14589": [
+      {
+        "id": "4809609627",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9495676,
+          19.1726444
+        ]
+      }
+    ],
+    "3856,14573": [
+      {
+        "id": "5251354221",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8650997,
+          19.2838839
+        ]
+      },
+      {
+        "id": "5251360221",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8661934,
+          19.2842771
+        ]
+      }
+    ],
+    "3832,14586": [
+      {
+        "id": "5859107295",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9335427,
+          19.1634059
+        ]
+      },
+      {
+        "id": "5859134585",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9326888,
+          19.1637347
+        ]
+      },
+      {
+        "id": "5859134686",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9327382,
+          19.1644101
+        ]
+      }
+    ],
+    "3826,14583": [
+      {
+        "id": "5877650987",
+        "type": "Point",
+        "name": "Interaction Studio",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9173753,
+          19.1332499
+        ]
+      }
+    ],
+    "3821,14570": [
+      {
+        "id": "6110265787",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8523907,
+          19.1060724
+        ]
+      },
+      {
+        "id": "6110265788",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8527237,
+          19.1060287
+        ]
+      },
+      {
+        "id": "11426738529",
+        "type": "Point",
+        "name": "Mumbai Public School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.852419,
+          19.1098119
+        ]
+      }
+    ],
+    "3820,14569": [
+      {
+        "id": "6110272185",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8481115,
+          19.1042197
+        ]
+      }
+    ],
+    "3805,14571": [
+      {
+        "id": "6286223746",
+        "type": "Point",
+        "name": "Khalsa College/Don Bosco School",
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.8571298,
+          19.0251762
+        ]
+      }
+    ],
+    "3805,14570": [
+      {
+        "id": "6423547527",
+        "type": "Point",
+        "name": "MCGM, L K Waghji, Mumbai Public School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8516675,
+          19.0271372
+        ]
+      }
+    ],
+    "3824,14570": [
+      {
+        "id": "6430561108",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8514678,
+          19.1204617
+        ]
+      }
+    ],
+    "3801,14570": [
+      {
+        "id": "6442254811",
+        "type": "Point",
+        "name": "Dnayneshwar Vidyalaya",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8543408,
+          19.008134
+        ]
+      }
+    ],
+    "3825,14583": [
+      {
+        "id": "6801919188",
+        "type": "Point",
+        "name": "Madarsa (Tajweedul Islam)",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9188893,
+          19.1259525
+        ]
+      },
+      {
+        "id": "6924346886",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9186936,
+          19.1270272
+        ]
+      }
+    ],
+    "3844,14592": [
+      {
+        "id": "6821609585",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9642515,
+          19.2230361
+        ]
+      }
+    ],
+    "3826,14587": [
+      {
+        "id": "6990613593",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9381366,
+          19.134427
+        ]
+      }
+    ],
+    "3821,14565": [
+      {
+        "id": "7158568637",
+        "type": "Point",
+        "name": null,
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.8265664,
+          19.1056287
+        ]
+      },
+      {
+        "id": "7158617890",
+        "type": "Point",
+        "name": null,
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.8269942,
+          19.1053992
+        ]
+      }
+    ],
+    "3827,14564": [
+      {
+        "id": "7161503130",
+        "type": "Point",
+        "name": null,
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.8204274,
+          19.1355948
+        ]
+      },
+      {
+        "id": "7161518792",
+        "type": "Point",
+        "name": null,
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.8203145,
+          19.1353914
+        ]
+      }
+    ],
+    "3860,14574": [
+      {
+        "id": "7229791170",
+        "type": "Point",
+        "name": "RBK School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8715741,
+          19.3022067
+        ]
+      }
+    ],
+    "3794,14562": [
+      {
+        "id": "7405089091",
+        "type": "Point",
+        "name": "The Golden Spiral School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.813493,
+          18.9737612
+        ]
+      },
+      {
+        "id": "9060641466",
+        "type": "Point",
+        "name": "Bhausaheb Hiray Vidyalaya",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.812634,
+          18.973182
+        ]
+      }
+    ],
+    "3793,14562": [
+      {
+        "id": "7405863748",
+        "type": "Point",
+        "name": "The Universal School, Tardeo",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8140038,
+          18.9651298
+        ]
+      }
+    ],
+    "3794,14563": [
+      {
+        "id": "7411177793",
+        "type": "Point",
+        "name": "Tardeo Municipal Secondary School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8173698,
+          18.9709943
+        ]
+      }
+    ],
+    "3793,14563": [
+      {
+        "id": "7411177799",
+        "type": "Point",
+        "name": "Education Inspector South",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8185191,
+          18.9675962
+        ]
+      },
+      {
+        "id": "7411177803",
+        "type": "Point",
+        "name": "Gilder Lane Muncipal School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8189721,
+          18.9684792
+        ]
+      }
+    ],
+    "3795,14566": [
+      {
+        "id": "7414783359",
+        "type": "Point",
+        "name": "Sadhvi Savitribai Phule Upper Primary School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8319417,
+          18.9764347
+        ]
+      }
+    ],
+    "3797,14566": [
+      {
+        "id": "7414791530",
+        "type": "Point",
+        "name": "Napoo High School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8347715,
+          18.9871
+        ]
+      },
+      {
+        "id": "9060840937",
+        "type": "Point",
+        "name": "VLN High School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8347508,
+          18.9868553
+        ]
+      }
+    ],
+    "3801,14563": [
+      {
+        "id": "7425930335",
+        "type": "Point",
+        "name": "Worli Seaface Municipal School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8157382,
+          19.0086699
+        ]
+      }
+    ],
+    "3797,14565": [
+      {
+        "id": "7430392503",
+        "type": "Point",
+        "name": "Worli Naka Upper Primary School-Tamil",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8285467,
+          18.9869676
+        ]
+      }
+    ],
+    "3799,14564": [
+      {
+        "id": "7430392504",
+        "type": "Point",
+        "name": "KASTURBA GANDHI MUNICIPAL SCHOOL",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8214434,
+          18.9956112
+        ]
+      }
+    ],
+    "3801,14566": [
+      {
+        "id": "7434309486",
+        "type": "Point",
+        "name": "Kamaladevi Gobindram Tahiliani High School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8304056,
+          19.0058854
+        ]
+      }
+    ],
+    "3804,14567": [
+      {
+        "id": "7442381761",
+        "type": "Point",
+        "name": "Pragati School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8356824,
+          19.0209617
+        ]
+      }
+    ],
+    "3806,14567": [
+      {
+        "id": "7442381773",
+        "type": "Point",
+        "name": "St. Michaels English Primary School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8399288,
+          19.0313861
+        ]
+      }
+    ],
+    "3805,14568": [
+      {
+        "id": "7442381774",
+        "type": "Point",
+        "name": "R.C.Mahim Municipal Urdu Primary",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8400202,
+          19.0295396
+        ]
+      }
+    ],
+    "3804,14569": [
+      {
+        "id": "7442452600",
+        "type": "Point",
+        "name": "Shishuvihar Madhyamik Vidhyala",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8477584,
+          19.0224005
+        ]
+      },
+      {
+        "id": "7442452610",
+        "type": "Point",
+        "name": "Saraswati Mandir School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8481813,
+          19.0200022
+        ]
+      },
+      {
+        "id": "7442452611",
+        "type": "Point",
+        "name": "Patkar Guruji Vidyalaya",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8487774,
+          19.0206415
+        ]
+      },
+      {
+        "id": "9055082901",
+        "type": "Point",
+        "name": null,
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.8487341,
+          19.021828
+        ]
+      },
+      {
+        "id": "9055082902",
+        "type": "Point",
+        "name": null,
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.8489672,
+          19.0216745
+        ]
+      },
+      {
+        "id": "9055082905",
+        "type": "Point",
+        "name": null,
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.8482662,
+          19.0218816
+        ]
+      },
+      {
+        "id": "9055082906",
+        "type": "Point",
+        "name": null,
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.8478741,
+          19.0217333
+        ]
+      }
+    ],
+    "3802,14569": [
+      {
+        "id": "7453717287",
+        "type": "Point",
+        "name": "Kranti Singh Nana Patil Vidyalaya",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8480814,
+          19.0108269
+        ]
+      }
+    ],
+    "3807,14570": [
+      {
+        "id": "7453717309",
+        "type": "Point",
+        "name": "Matunga Labour Camp Upper Primary Marathi School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8527661,
+          19.0358812
+        ]
+      }
+    ],
+    "3805,14572": [
+      {
+        "id": "7453717329",
+        "type": "Point",
+        "name": "Shree Amulakh Amichand Bhimji Vividhlakshi Vidyalaya",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8602496,
+          19.0270588
+        ]
+      },
+      {
+        "id": "7453717330",
+        "type": "Point",
+        "name": "I.H.Bhatia English Primary School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8604438,
+          19.0263438
+        ]
+      },
+      {
+        "id": "10048595319",
+        "type": "Point",
+        "name": "Amulakh amichand vidyalaya",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8603055,
+          19.0271011
+        ]
+      }
+    ],
+    "3807,14589": [
+      {
+        "id": "7463765598",
+        "type": "Point",
+        "name": "Sir Sayyad English High School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9456677,
+          19.0366365
+        ]
+      },
+      {
+        "id": "7463765602",
+        "type": "Point",
+        "name": "Crescent High School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9456677,
+          19.0355691
+        ]
+      }
+    ],
+    "3806,14588": [
+      {
+        "id": "7463765603",
+        "type": "Point",
+        "name": "Vivekanand English High School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9441845,
+          19.0344233
+        ]
+      }
+    ],
+    "3806,14589": [
+      {
+        "id": "7463765609",
+        "type": "Point",
+        "name": "Trombay Municipal Marathi School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9493518,
+          19.0338443
+        ]
+      }
+    ],
+    "3807,14590": [
+      {
+        "id": "7463765611",
+        "type": "Point",
+        "name": "Fazlani Star English High School and Junior College",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.951103,
+          19.0378275
+        ]
+      }
+    ],
+    "3848,14571": [
+      {
+        "id": "7484386953",
+        "type": "Point",
+        "name": "Rustomjee Cambridge International school",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8572424,
+          19.2433962
+        ]
+      }
+    ],
+    "3813,14575": [
+      {
+        "id": "7896696885",
+        "type": "Point",
+        "name": "Orchids The International School, Kurla",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8791177,
+          19.0678395
+        ]
+      }
+    ],
+    "3838,14568": [
+      {
+        "id": "7907742485",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8409231,
+          19.1938402
+        ]
+      }
+    ],
+    "3845,14566": [
+      {
+        "id": "7908283986",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8346084,
+          19.2272544
+        ]
+      },
+      {
+        "id": "10258986636",
+        "type": "Point",
+        "name": "NAVRATNA SOCIETY",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8304592,
+          19.2265894
+        ]
+      }
+    ],
+    "3848,14596": [
+      {
+        "id": "7912321085",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9831239,
+          19.2422794
+        ]
+      }
+    ],
+    "3791,14567": [
+      {
+        "id": "7912405385",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8366214,
+          18.9562488
+        ]
+      }
+    ],
+    "3816,14571": [
+      {
+        "id": "8100020840",
+        "type": "Point",
+        "name": "St. Charles Girls' High chool, ground",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.855288,
+          19.0803065
+        ]
+      }
+    ],
+    "3846,14593": [
+      {
+        "id": "8537797187",
+        "type": "Point",
+        "name": "Rainbow International School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9698829,
+          19.2315327
+        ]
+      }
+    ],
+    "3853,14592": [
+      {
+        "id": "8616920005",
+        "type": "Point",
+        "name": null,
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.9614347,
+          19.2674983
+        ]
+      }
+    ],
+    "3802,14565": [
+      {
+        "id": "9055069383",
+        "type": "Point",
+        "name": "Prabhadevi Municipal School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.828683,
+          19.0108648
+        ]
+      }
+    ],
+    "3802,14568": [
+      {
+        "id": "9055082839",
+        "type": "Point",
+        "name": "Guru Nank English High School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8446515,
+          19.0124003
+        ]
+      }
+    ],
+    "3803,14566": [
+      {
+        "id": "9055082853",
+        "type": "Point",
+        "name": null,
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.8342662,
+          19.0171841
+        ]
+      }
+    ],
+    "3805,14567": [
+      {
+        "id": "9055082868",
+        "type": "Point",
+        "name": null,
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.8392742,
+          19.0252243
+        ]
+      }
+    ],
+    "3787,14565": [
+      {
+        "id": "9056958182",
+        "type": "Point",
+        "name": "The Blossom English Primary School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8280567,
+          18.938294
+        ]
+      }
+    ],
+    "3780,14562": [
+      {
+        "id": "9056958208",
+        "type": "Point",
+        "name": null,
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.8141948,
+          18.9026533
+        ]
+      }
+    ],
+    "3793,14566": [
+      {
+        "id": "9060708506",
+        "type": "Point",
+        "name": null,
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.8329131,
+          18.9670721
+        ]
+      }
+    ],
+    "3825,14564": [
+      {
+        "id": "9116487322",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.82408,
+          19.127313
+        ]
+      }
+    ],
+    "3830,14565": [
+      {
+        "id": "9300003145",
+        "type": "Point",
+        "name": "Rims Internation School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8297934,
+          19.1515079
+        ]
+      }
+    ],
+    "3830,14566": [
+      {
+        "id": "9300003146",
+        "type": "Point",
+        "name": "HVPS College",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8306517,
+          19.150747
+        ]
+      },
+      {
+        "id": "9300003147",
+        "type": "Point",
+        "name": "Goenka School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8307614,
+          19.1507401
+        ]
+      },
+      {
+        "id": "9300003148",
+        "type": "Point",
+        "name": "Marble the Arc",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8309224,
+          19.1506848
+        ]
+      }
+    ],
+    "3841,14572": [
+      {
+        "id": "9443739333",
+        "type": "Point",
+        "name": "bmc ground",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8625372,
+          19.2094954
+        ]
+      }
+    ],
+    "3830,14598": [
+      {
+        "id": "9821449216",
+        "type": "Point",
+        "name": null,
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.9944174,
+          19.1503816
+        ]
+      }
+    ],
+    "3834,14593": [
+      {
+        "id": "9887629177",
+        "type": "Point",
+        "name": "Waman roa",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9673623,
+          19.1740948
+        ]
+      }
+    ],
+    "3833,14592": [
+      {
+        "id": "9887635360",
+        "type": "Point",
+        "name": "Sau Laxmibai",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9640213,
+          19.1670602
+        ]
+      },
+      {
+        "id": "9887675513",
+        "type": "Point",
+        "name": "Yashwantroa Dode",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9647746,
+          19.1697442
+        ]
+      }
+    ],
+    "3856,14557": [
+      {
+        "id": "10185533565",
+        "type": "Point",
+        "name": "ROYAL ENGLISH HIGH SCHOOL AND JR. COLLEG OF COMMERCE AND SCIENCE",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.7894537,
+          19.2822495
+        ]
+      }
+    ],
+    "3832,14585": [
+      {
+        "id": "10269097544",
+        "type": "Point",
+        "name": "Gayathri Vidya Mandir",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9299819,
+          19.1618123
+        ]
+      }
+    ],
+    "3834,14574": [
+      {
+        "id": "10607708286",
+        "type": "Point",
+        "name": "Ryan International School (ICSE)",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8726025,
+          19.1723236
+        ]
+      }
+    ],
+    "3794,14561": [
+      {
+        "id": "10785298052",
+        "type": "Point",
+        "name": null,
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.8069309,
+          18.970029
+        ]
+      },
+      {
+        "id": "10785298062",
+        "type": "Point",
+        "name": null,
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.8068917,
+          18.9700007
+        ]
+      }
+    ],
+    "3815,14567": [
+      {
+        "id": "10878535991",
+        "type": "Point",
+        "name": "Podar International School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8379688,
+          19.0790492
+        ]
+      }
+    ],
+    "3791,14566": [
+      {
+        "id": "10886900313",
+        "type": "Point",
+        "name": null,
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.8327344,
+          18.955115
+        ]
+      }
+    ],
+    "3782,14561": [
+      {
+        "id": "11064882619",
+        "type": "Point",
+        "name": null,
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.8074026,
+          18.9104321
+        ]
+      }
+    ],
+    "3818,14565": [
+      {
+        "id": "11426739575",
+        "type": "Point",
+        "name": "Juhu Tara Municipal School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8282127,
+          19.0919763
+        ]
+      }
+    ],
+    "3823,14581": [
+      {
+        "id": "11697877354",
+        "type": "Point",
+        "name": "S.M. Shetty School Ground",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9054975,
+          19.115227
+        ]
+      }
+    ],
+    "3824,14569": [
+      {
+        "id": "11698432789",
+        "type": "Point",
+        "name": "IItian's PACE - Andheri",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8454164,
+          19.1203044
+        ]
+      }
+    ],
+    "3823,14569": [
+      {
+        "id": "11698463569",
+        "type": "Point",
+        "name": "Aakash Institute",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8455521,
+          19.1194001
+        ]
+      }
+    ],
+    "3858,14573": [
+      {
+        "id": "12129208196",
+        "type": "Point",
+        "name": "Sardar Vallabhbhai Patel Vidlaya",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8665495,
+          19.2913331
+        ]
+      }
+    ],
+    "3839,14568": [
+      {
+        "id": "12222194148",
+        "type": "Point",
+        "name": "Savitridevi Hariram Agarwal International School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8410849,
+          19.1978859
+        ]
+      }
+    ],
+    "3816,14569": [
+      {
+        "id": "12479914831",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8494628,
+          19.0815886
+        ]
+      }
+    ],
+    "3827,14562": [
+      {
+        "id": "12765944908",
+        "type": "Point",
+        "name": null,
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8133207,
+          19.1380448
+        ]
+      }
+    ],
+    "3831,14567": [
+      {
+        "id": "12942046400",
+        "type": "Point",
+        "name": "Vibgyor",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.836136,
+          19.1595272
+        ]
+      }
+    ],
+    "3810,14565": [
+      {
+        "id": "13064131461",
+        "type": "Point",
+        "name": "Gate No 1",
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.826013,
+          19.0548123
+        ]
+      },
+      {
+        "id": "13064131462",
+        "type": "Point",
+        "name": "Gate No 2",
+        "amenity": null,
+        "landuse": "",
+        "coordinates": [
+          72.8261619,
+          19.0548266
+        ]
+      }
+    ],
+    "3816,14581": [
+      {
+        "id": "13096586484",
+        "type": "Point",
+        "name": "svdd",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.9083633,
+          19.0827272
+        ]
+      }
+    ],
+    "3813,14567": [
+      {
+        "id": "13097872633",
+        "type": "Point",
+        "name": "Podar International School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.837565,
+          19.0694479
+        ]
+      }
+    ],
+    "3791,14564": [
+      {
+        "id": "13116847401",
+        "type": "Point",
+        "name": "Sant Gadge Maharaj School",
+        "amenity": "school",
+        "landuse": "",
+        "coordinates": [
+          72.8212203,
+          18.9598574
+        ]
+      }
+    ]
+  }
+}
